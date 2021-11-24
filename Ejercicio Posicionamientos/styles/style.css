@@ -1,0 +1,26 @@
+#divimg{
+	position: relative;
+	top: 10px;
+	left: 500px;
+	width: 30%;
+}
+
+#contact{
+	position: fixed;
+	left: 800px;
+	top: 800px;
+	border: solid black 4px;
+	background-color: turquoise;
+	width: 240px;
+	text-orientation: ;
+}
+body{
+	background-color: grey;
+}
+img>div>p{
+	height: 400px;
+	width: 400px;
+	position: relative;
+	width: 300px;
+	font-size: 60px;
+}
